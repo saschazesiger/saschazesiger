@@ -1,13 +1,8 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
     width="30px">, I'm Janis</h1>
 
-<h2 align="center">🏆 Github Trophies</h2>
-<img align="center"
-  src="https://github-profile-trophy.vercel.app/?username=saschazesiger&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true"
-  width="100%" />
-<br />
+
 
 ## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/saschazesiger?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/saschazesiger?tab=followers"><img align="right" src="https://img.shields.io/github/followers/saschazesiger?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/saschazesiger">  <img align="right" src="https://komarev.com/ghpvc/?username=saschazesiger"></a>
 
