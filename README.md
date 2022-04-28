@@ -1,16 +1,28 @@
-### Hi there 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
 
-<!--
-**saschazesiger/saschazesiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+    width="30px">, I'm Janis</h1>
 
-Here are some ideas to get you started:
+<h2 align="center">🏆 Github Trophies</h2>
+<img align="center"
+  src="https://github-profile-trophy.vercel.app/?username=saschazesiger&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true"
+  width="100%" />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/saschazesiger?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/saschazesiger?tab=followers"><img align="right" src="https://img.shields.io/github/followers/saschazesiger?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/saschazesiger">  <img align="right" src="https://komarev.com/ghpvc/?username=saschazesiger"></a>
+
+<p>
+  <img align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saschazesiger&langs_count=8&theme=react" />
+</p>
+
+<a href="https://github.com/saschazesiger"><img alt="saschazesiger's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=saschazesiger&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saschazesiger&theme=black-ice"
+    alt="saschazesiger" /></p>
+
+<br />
+
+<a href="https://github.com/saschazesiger"><img alt="saschazesiger's Activity Graph"
+    src="https://activity-graph.herokuapp.com/graph?username=saschazesiger&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
