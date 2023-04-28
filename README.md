@@ -19,9 +19,6 @@
 
 <br />
 
-<a href="https://github.com/saschazesiger"><img alt="saschazesiger's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=saschazesiger&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/saschazesiger/saschazesiger/main/cat.gif" style="width:200px;">
 </p>
